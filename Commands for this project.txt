@@ -1,0 +1,42 @@
+Frontend for chat app :-
+
+npx create-react-app .
+
+npm install -D tailwindcss  (for tailwind CSS)
+npx tailwindcss init
+
+----->>>  npm start
+
+npm i -D daisyui@latest (for daisy UI)
+
+npm i react-router-dom
+
+npm i axios react-hot-toast
+
+npm i cors
+
+npm i @reduxjs/toolkit react-redux
+
+npm i react-icons
+
+
+Backend :-
+
+npm init , then enter......
+
+npm i mongoose express dotenv bcryptjs cookie-parser nodemon cors socket.io
+
+----->>> npm run dev
+
+connect to mongodb atlas in chrome with password and attach your ip address
+
+npm i jsonwebtoken
+
+
+
+After downloading the file :- 
+
+npm install --save react react-dom @types/react @types/react-dom  (" Can not find the module 'react' ")
+
+
+npm i -g react-scripts (" 'react-scripts' is not recognized ")
